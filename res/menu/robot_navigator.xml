@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     
     <item
         android:id="@+id/floor_plan"
         android:title="@string/floor_plan"
-        android:icon="@drawable/ic_floor_plan"/>
+        android:icon="@drawable/floor_plan"/>
     <item
         android:id="@+id/direct_control"
         android:title="@string/direct_control"/>

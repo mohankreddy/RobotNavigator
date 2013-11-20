@@ -7,6 +7,6 @@
     <string name="hello_world">Hello world!</string>
     
     <string name="floor_plan">Floor Plan</string>
-    <string name="hello_world">Direct Control</string>
+    <string name="direct_control">Direct Control</string>
 
 </resources>
